@@ -1,0 +1,1 @@
+Hello my name is Ahmed Nasser, testing Huffman Compression Algorithm 12345
